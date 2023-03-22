@@ -4,12 +4,12 @@ We are an academic developers team from Faculdades Metropolitanas Unidas (FMU), 
 
 # Our Team
 
-### > Pedro Henrique Sampaio de Novaes <img src="pedro.png" style="width: 15%;" align="right">
+### > Pedro Henrique Sampaio de Novaes <img src="../pedro.png" style="width: 15%;" align="right">
 A Front-End developer that mainly works with HTML, CSS, JAVASCRIPT and REACT. He likes to play games and loves soccer ⚽🎮.
 > LinkedIn: https://linkedin.com/in/pedrohenriquesampaiodenovaes
 
 <br>
 
-### > Caio Luppo Ribeiro <img src="caio.png" style="width: 15%;" align="right">
+### > Caio Luppo Ribeiro <img src="../caio.png" style="width: 15%;" align="right">
 A Mobile developer that mainly works with Android (Kotlin), Flutter and Cybersecurity. He also like to play games, and appreciates music and illustration 🎮🎨.
 > LinkedIn: https://linkedin.com/in/pedrohenriquesampaiodenovaes
