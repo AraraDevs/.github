@@ -5,7 +5,7 @@ We are an academic developers team from Faculdades Metropolitanas Unidas (FMU), 
 # Our Team
 
 ### > Pedro Henrique Sampaio de Novaes <img src="https://github.com/AraraDevs/.github/blob/main/profile/pedro.png" style="width: 15%;" align="right">
-A Front-End developer that mainly works with HTML, CSS, JAVASCRIPT and REACT. He likes to play games and loves soccer ⚽🎮.
+A Front-End developer that mainly works with HTML, CSS, JAVASCRIPT, REACT, NODE and MongoDB. He likes to play games and loves soccer ⚽🎮.
 > LinkedIn: https://linkedin.com/in/pedrohenriquesampaiodenovaes
 
 <br>
